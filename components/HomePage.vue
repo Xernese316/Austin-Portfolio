@@ -23,7 +23,7 @@
       <h1 class="text-5xl md:text-7xl font-bold mb-4 text-white">Austin Varghese</h1>
       <p class="text-xl md:text-2xl text-cyan-400 mb-8">Software Engineer | Fullstack Enginner | Data Engineering/Scientsit/Analyst</p>
       <p class="max-w-3xl mx-auto mb-8 text-gray-200">
-        A recent Master's graduate in Computer Science with a passion for building data-driven applications. I am actively seeking full-time or internship roles in Software Engineering, Machine Learning, and Data Enginnering/Scientist/Analysis where I can contribute to a collaborative team and continue to learn new technologies.
+        A recent Master's graduate from the University of Colorado Denver in Computer Science with a passion for building data-driven applications. I am actively seeking full-time or internship roles in Software Engineering, Machine Learning, and Data Enginnering/Scientist/Analysis where I can contribute to a collaborative team and continue to learn new technologies.
       </p>
       <div class="space-x-4">
         <a href="https://linkedin.com/in/avarghese97" target="https://linkedin.com/in/avarghese97" class="text-3xl hover:text-cyan-400 transition-colors" aria-label="LinkedIn"><Icon name="mdi:linkedin" /></a>
