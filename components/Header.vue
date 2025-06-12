@@ -1,23 +1,4 @@
-<!-- <template>
-  <header class="bg-gray-900 text-white sticky top-0 z-50 shadow-md">
-    <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
-      <div class="text-2xl font-bold">
-        <a href="#home">Austin Varghese</a>
-      </div>
-      <div class="hidden md:flex items-center space-x-6">
-        <a href="#about" class="hover:text-cyan-400 transition-colors">About</a>
-        <a href="#experience" class="hover:text-cyan-400 transition-colors">Experience</a>
-        <a href="#skills" class="hover:text-cyan-400 transition-colors">Skills</a>
-        <a href="#projects" class="hover:text-cyan-400 transition-colors">Projects</a>
-        <a href="#contact" class="hover:text-cyan-400 transition-colors">Contact</a>
-      </div>
-    </nav>
-  </header>
-</template>
- -->
-
-
- <script setup>
+<script setup>
 import { ref } from 'vue'
 
 // This reactive variable will track if the user is hovering over the name
