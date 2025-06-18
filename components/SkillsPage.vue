@@ -12,14 +12,9 @@ const skillCategories = [
   {
     title: 'Frameworks & Libraries',
     skills: [
-      { name: 'React', icon: 'logos:react' },
-      { name: 'Angular', icon: 'logos:angular-icon' },
-      { name: 'Node.js', icon: 'logos:nodejs-icon' },
-      { name: 'SvelteKit', icon: 'logos:svelte-icon' },
-      { name: 'Redux', icon: 'logos:redux' },
+      { name: 'Nuxtjs', icon: 'logos:nuxt-icon' },
       { name: 'Tailwind CSS', icon: 'logos:tailwindcss-icon' },
-      { name: 'Three.js', icon: 'logos:threejs' },
-      { name: 'Django', icon: 'logos:django-icon' },
+      { name: 'Flask', icon: 'logos:flask' },
       { name: 'HTML5', icon: 'logos:html-5' },
       { name: 'CSS3', icon: 'logos:css-3' },
     ]
@@ -36,7 +31,6 @@ const skillCategories = [
     title: 'Data Analysis & Visualization',
     skills: [
       { name: 'Power BI', icon: 'file-icons:microsoftoffice' },
-      { name: 'Snowflake', icon: 'logos:snowflake-icon' },
       { name: 'Pandas', icon: 'logos:pandas' },
       { name: 'Numpy', icon: 'logos:numpy' },
       { name: 'Matplotlib', icon: 'logos:matplotlib-icon' },
@@ -46,8 +40,6 @@ const skillCategories = [
   {
     title: 'Databases',
     skills: [
-      { name: 'PostgreSQL', icon: 'logos:postgresql' },
-      { name: 'MongoDB', icon: 'logos:mongodb-icon' },
       { name: 'MySQL', icon: 'logos:mysql' },
     ]
   },
@@ -65,9 +57,6 @@ const skillCategories = [
     title: 'Cloud & DevOps',
     skills: [
       { name: 'AWS', icon: 'logos:aws' },
-      { name: 'Docker', icon: 'logos:docker-icon' },
-      { name: 'Kubernetes', icon: 'logos:kubernetes' },
-      { name: 'Google Cloud', icon: 'logos:google-cloud' },
     ]
   },
 ];
